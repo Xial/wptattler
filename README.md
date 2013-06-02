@@ -21,4 +21,4 @@ Example:
 This project is now WTFPL licensed.
 
 Was it really useful for you?
-Feel free to donate a <a href="bitcoin:1FiJWBxiALqMYHyeqWRumtkHTTPWjpGfGt">fraction of a bitcoin here</a> (0.02 BTC suggested) to keep me in soda syrups and carbon dioxide.
+Feel free to donate a bitcent or two (0.02 BTC suggested to 1FiJWBxiALqMYHyeqWRumtkHTTPWjpGfGt) to keep me in soda syrups and carbon dioxide.
