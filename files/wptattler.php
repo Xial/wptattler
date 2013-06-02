@@ -32,9 +32,7 @@
          $tattler_version = "0.2.0"
 ?>
 WordPress Tattler <?php echo($tattler_version); ?>, operating in <?php echo getcwd(); ?>
-
 These local WordPress files claim to contain: <?php echo($wp_version);?>
-
 But the database shows a version number of: <?php bloginfo('version'); ?>
 
 If these numbers do NOT match, this user is likely compromised. 
