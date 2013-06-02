@@ -33,12 +33,11 @@
 ?>
 WordPress Tattler <?php echo($tattler_version); ?>, operating in <?php echo getcwd(); ?>
 
-These local WordPress files claim to be: <?php echo($wp_version);?>
+These local WordPress files claim to contain: <?php echo($wp_version);?>
 
-But the database says: <?php bloginfo('version'); ?>
+But the database shows a version number of: <?php bloginfo('version'); ?>
 
 If these numbers do NOT match, this user is likely compromised. 
-Recommend: locking down directory to mitigate additional damage.
 Recommend: notify user to upgrade WordPress to latest version. 
 Link to latest version is always at: http://wordpress.org/latest.zip
 
