@@ -1,8 +1,9 @@
-WordPress Tattler
-=========
+# WordPress Tattler #
+* * *
+
 A Simple Command-Line WordPress Version Checker.
 
-This is a little tool I wrote to find compromised WordPress installs in a shared hosting environment. 
+This is a little tool I wrote a while back to find compromised WordPress installs in a shared hosting environment. 
 
 Written in PHP, to be run from an SSH session - no browser needed.
 
@@ -17,3 +18,8 @@ Example:
     If these numbers do NOT match, this user is likely compromised. 
     Recommend: notify user to upgrade WordPress to latest version. 
     Link to latest version is always at: http://wordpress.org/latest.zip
+	
+This project is now WTFPL licensed.
+
+Was it really useful for you?
+Feel free to donate a [fraction of a bitcoin here](bitcoin:1FiJWBxiALqMYHyeqWRumtkHTTPWjpGfGt) (0.02 BTC suggested) to keep me in soda syrups and carbon dioxide.
