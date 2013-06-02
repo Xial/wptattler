@@ -1,5 +1,4 @@
 # WordPress Tattler #
-* * *
 
 A Simple Command-Line WordPress Version Checker.
 
@@ -22,4 +21,4 @@ Example:
 This project is now WTFPL licensed.
 
 Was it really useful for you?
-Feel free to donate a [fraction of a bitcoin here](bitcoin:1FiJWBxiALqMYHyeqWRumtkHTTPWjpGfGt) (0.02 BTC suggested) to keep me in soda syrups and carbon dioxide.
+Feel free to donate a <a href="bitcoin:1FiJWBxiALqMYHyeqWRumtkHTTPWjpGfGt">fraction of a bitcoin here</a> (0.02 BTC suggested) to keep me in soda syrups and carbon dioxide.
